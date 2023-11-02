@@ -9,7 +9,7 @@ const SideBar = () => {
   return (
     <aside id='sidebar'>
       <img src={Avatar} alt="Gabriel Abreu" />
-      <p className='title'>Desenvolvedor</p>
+      <p className='title'>Desenvolvedor Frontend</p>
       <SocialNetworks/>
       <Information/>
       <a href={Curriculo} className='btn' download="Curriculo">Download do Curriculo</a>
